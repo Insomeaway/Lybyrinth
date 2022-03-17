@@ -66,7 +66,6 @@ int main()
 		printf("%s\n",Map[Q]);
 	}
 	cycle();
-	printf("恭喜你，完成迷宫\n");
+	printf("恭喜你，离开迷宫\n");
 	return 0;
 }
-
